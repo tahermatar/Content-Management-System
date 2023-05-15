@@ -1,4 +1,9 @@
 using CMS.Data;
+using CMS.Data.Models;
+using CMS.Infrastructure.AutoMapper;
+using CMS.Infrastructure.Middlewares;
+using CMS.Infrastructure.Services;
+using CMS.Infrastructure.Services.Users;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 
@@ -10,8 +15,27 @@ builder.Services.AddDbContext<CMSDbContext>(options =>
     options.UseSqlServer(connectionString));
 builder.Services.AddDatabaseDeveloperPageExceptionFilter();
 
-builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true)
-    .AddEntityFrameworkStores<CMSDbContext>();
+//builder.Services.AddIdentity<User,IdentityRole>(options => options.SignIn.RequireConfirmedAccount = true)
+//    .AddEntityFrameworkStores<CMSDbContext>();
+builder.Services.AddIdentity<User, IdentityRole>(config =>
+{
+    config.User.RequireUniqueEmail = true;
+    config.Password.RequireDigit = false;
+    config.Password.RequiredLength = 6;
+    config.Password.RequireLowercase = false;
+    config.Password.RequireNonAlphanumeric = false;
+    config.Password.RequireUppercase = false;
+    config.SignIn.RequireConfirmedEmail = false;
+}).AddEntityFrameworkStores<CMSDbContext>()
+.AddDefaultTokenProviders().AddDefaultUI();
+
+builder.Services.AddRazorPages();
+
+builder.Services.AddAutoMapper(typeof(MapperProfile).Assembly);
+builder.Services.AddTransient<IEmailService, EmailService>();
+builder.Services.AddTransient<IFileService, FileService>();
+builder.Services.AddTransient<IUserService, UserService>();
+
 builder.Services.AddControllersWithViews();
 
 var app = builder.Build();
@@ -34,6 +58,8 @@ app.UseStaticFiles();
 app.UseRouting();
 
 app.UseAuthorization();
+
+app.UseExceptionHandler(opts => opts.UseMiddleware<ExceptionHandler>());
 
 app.MapControllerRoute(
     name: "default",
