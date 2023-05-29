@@ -5,8 +5,56 @@
       "PackagePath": "staticwebassets\\CMS.Web.bundle.scp.css"
     },
     {
+      "Id": "F:\\ASP.NET\\MVC App\\CMS\\CMS\\CMS.Web\\wwwroot\\Datatable\\Advertisement.js",
+      "PackagePath": "staticwebassets\\Datatable\\Advertisement.js"
+    },
+    {
+      "Id": "F:\\ASP.NET\\MVC App\\CMS\\CMS\\CMS.Web\\wwwroot\\Datatable\\Category.js",
+      "PackagePath": "staticwebassets\\Datatable\\Category.js"
+    },
+    {
       "Id": "F:\\ASP.NET\\MVC App\\CMS\\CMS\\CMS.Web\\wwwroot\\Datatable\\User.js",
       "PackagePath": "staticwebassets\\Datatable\\User.js"
+    },
+    {
+      "Id": "F:\\ASP.NET\\MVC App\\CMS\\CMS\\CMS.Web\\wwwroot\\Images\\0176ad76ec0d4674be68f275ae5062bb.jpg",
+      "PackagePath": "staticwebassets\\Images\\0176ad76ec0d4674be68f275ae5062bb.jpg"
+    },
+    {
+      "Id": "F:\\ASP.NET\\MVC App\\CMS\\CMS\\CMS.Web\\wwwroot\\Images\\03beacba28034b5bb3466f1b98be895e.jpg",
+      "PackagePath": "staticwebassets\\Images\\03beacba28034b5bb3466f1b98be895e.jpg"
+    },
+    {
+      "Id": "F:\\ASP.NET\\MVC App\\CMS\\CMS\\CMS.Web\\wwwroot\\Images\\05fba9955e854aeaa9550349a758af48.jpg",
+      "PackagePath": "staticwebassets\\Images\\05fba9955e854aeaa9550349a758af48.jpg"
+    },
+    {
+      "Id": "F:\\ASP.NET\\MVC App\\CMS\\CMS\\CMS.Web\\wwwroot\\Images\\0a19334a453d4db19c967ee19407fef4.jpg",
+      "PackagePath": "staticwebassets\\Images\\0a19334a453d4db19c967ee19407fef4.jpg"
+    },
+    {
+      "Id": "F:\\ASP.NET\\MVC App\\CMS\\CMS\\CMS.Web\\wwwroot\\Images\\16861965829d467c8c18de577df3f3ce.jpg",
+      "PackagePath": "staticwebassets\\Images\\16861965829d467c8c18de577df3f3ce.jpg"
+    },
+    {
+      "Id": "F:\\ASP.NET\\MVC App\\CMS\\CMS\\CMS.Web\\wwwroot\\Images\\17ea6b87f38540a8b1f1090f19576b15.jpg",
+      "PackagePath": "staticwebassets\\Images\\17ea6b87f38540a8b1f1090f19576b15.jpg"
+    },
+    {
+      "Id": "F:\\ASP.NET\\MVC App\\CMS\\CMS\\CMS.Web\\wwwroot\\Images\\18be53d3b0a4421089c7d58f5b938338.jpg",
+      "PackagePath": "staticwebassets\\Images\\18be53d3b0a4421089c7d58f5b938338.jpg"
+    },
+    {
+      "Id": "F:\\ASP.NET\\MVC App\\CMS\\CMS\\CMS.Web\\wwwroot\\Images\\18f4b81532bc49c48e6c3fb356826271.jpg",
+      "PackagePath": "staticwebassets\\Images\\18f4b81532bc49c48e6c3fb356826271.jpg"
+    },
+    {
+      "Id": "F:\\ASP.NET\\MVC App\\CMS\\CMS\\CMS.Web\\wwwroot\\Images\\1ffd3ab8b33a443aa619381f63e0bbd7.jpg",
+      "PackagePath": "staticwebassets\\Images\\1ffd3ab8b33a443aa619381f63e0bbd7.jpg"
+    },
+    {
+      "Id": "F:\\ASP.NET\\MVC App\\CMS\\CMS\\CMS.Web\\wwwroot\\Images\\2787ae4acbe34ef3bd2c11c9a6e516c6.jpg",
+      "PackagePath": "staticwebassets\\Images\\2787ae4acbe34ef3bd2c11c9a6e516c6.jpg"
     },
     {
       "Id": "F:\\ASP.NET\\MVC App\\CMS\\CMS\\CMS.Web\\wwwroot\\Images\\3079d43ca6c947fd8ba14db634274ceb.jpg",
@@ -17,16 +65,236 @@
       "PackagePath": "staticwebassets\\Images\\33aafc904a43440d93f990f87aa562ae.jpg"
     },
     {
+      "Id": "F:\\ASP.NET\\MVC App\\CMS\\CMS\\CMS.Web\\wwwroot\\Images\\34caf4d8672b47459e7ff910690ed3bf.jpg",
+      "PackagePath": "staticwebassets\\Images\\34caf4d8672b47459e7ff910690ed3bf.jpg"
+    },
+    {
+      "Id": "F:\\ASP.NET\\MVC App\\CMS\\CMS\\CMS.Web\\wwwroot\\Images\\39319e4142a0411d82f0e774b507bb38.jpg",
+      "PackagePath": "staticwebassets\\Images\\39319e4142a0411d82f0e774b507bb38.jpg"
+    },
+    {
+      "Id": "F:\\ASP.NET\\MVC App\\CMS\\CMS\\CMS.Web\\wwwroot\\Images\\40c521cc46e8465ba81e082b3e836386.jpg",
+      "PackagePath": "staticwebassets\\Images\\40c521cc46e8465ba81e082b3e836386.jpg"
+    },
+    {
+      "Id": "F:\\ASP.NET\\MVC App\\CMS\\CMS\\CMS.Web\\wwwroot\\Images\\413bca78fc8d4a5ebc8ae8669abc634b.jpg",
+      "PackagePath": "staticwebassets\\Images\\413bca78fc8d4a5ebc8ae8669abc634b.jpg"
+    },
+    {
+      "Id": "F:\\ASP.NET\\MVC App\\CMS\\CMS\\CMS.Web\\wwwroot\\Images\\42b0411bc8c746c79f100240668eb407.jpg",
+      "PackagePath": "staticwebassets\\Images\\42b0411bc8c746c79f100240668eb407.jpg"
+    },
+    {
+      "Id": "F:\\ASP.NET\\MVC App\\CMS\\CMS\\CMS.Web\\wwwroot\\Images\\4343241946414a72994d4614521c68e3.jpg",
+      "PackagePath": "staticwebassets\\Images\\4343241946414a72994d4614521c68e3.jpg"
+    },
+    {
+      "Id": "F:\\ASP.NET\\MVC App\\CMS\\CMS\\CMS.Web\\wwwroot\\Images\\483fb51092a34df88e63afa3f225fae2.jpg",
+      "PackagePath": "staticwebassets\\Images\\483fb51092a34df88e63afa3f225fae2.jpg"
+    },
+    {
+      "Id": "F:\\ASP.NET\\MVC App\\CMS\\CMS\\CMS.Web\\wwwroot\\Images\\4c9858254dad41c599794533c4e4a3db.jpg",
+      "PackagePath": "staticwebassets\\Images\\4c9858254dad41c599794533c4e4a3db.jpg"
+    },
+    {
+      "Id": "F:\\ASP.NET\\MVC App\\CMS\\CMS\\CMS.Web\\wwwroot\\Images\\4d550d69337b47e8beafdca2b2ec3f12.jpg",
+      "PackagePath": "staticwebassets\\Images\\4d550d69337b47e8beafdca2b2ec3f12.jpg"
+    },
+    {
+      "Id": "F:\\ASP.NET\\MVC App\\CMS\\CMS\\CMS.Web\\wwwroot\\Images\\52429ad6719140f182f90af286922458.jpg",
+      "PackagePath": "staticwebassets\\Images\\52429ad6719140f182f90af286922458.jpg"
+    },
+    {
+      "Id": "F:\\ASP.NET\\MVC App\\CMS\\CMS\\CMS.Web\\wwwroot\\Images\\5893cd2af44a45499f2ef575e8eb292d.jpg",
+      "PackagePath": "staticwebassets\\Images\\5893cd2af44a45499f2ef575e8eb292d.jpg"
+    },
+    {
+      "Id": "F:\\ASP.NET\\MVC App\\CMS\\CMS\\CMS.Web\\wwwroot\\Images\\5a80f6a9e1b9423b859d6f61ef71c6d6.jpg",
+      "PackagePath": "staticwebassets\\Images\\5a80f6a9e1b9423b859d6f61ef71c6d6.jpg"
+    },
+    {
+      "Id": "F:\\ASP.NET\\MVC App\\CMS\\CMS\\CMS.Web\\wwwroot\\Images\\5be15b7ee7a54db8a1bceffca61cbb9f.jpg",
+      "PackagePath": "staticwebassets\\Images\\5be15b7ee7a54db8a1bceffca61cbb9f.jpg"
+    },
+    {
+      "Id": "F:\\ASP.NET\\MVC App\\CMS\\CMS\\CMS.Web\\wwwroot\\Images\\5d7cc11c0c124447999a01b898e3ad75.jpg",
+      "PackagePath": "staticwebassets\\Images\\5d7cc11c0c124447999a01b898e3ad75.jpg"
+    },
+    {
+      "Id": "F:\\ASP.NET\\MVC App\\CMS\\CMS\\CMS.Web\\wwwroot\\Images\\5ef411ce6afb4c0ebda1926a5a210931.jpg",
+      "PackagePath": "staticwebassets\\Images\\5ef411ce6afb4c0ebda1926a5a210931.jpg"
+    },
+    {
+      "Id": "F:\\ASP.NET\\MVC App\\CMS\\CMS\\CMS.Web\\wwwroot\\Images\\5f52ca2e9ec7418b999bae7ff984a55b.jpg",
+      "PackagePath": "staticwebassets\\Images\\5f52ca2e9ec7418b999bae7ff984a55b.jpg"
+    },
+    {
+      "Id": "F:\\ASP.NET\\MVC App\\CMS\\CMS\\CMS.Web\\wwwroot\\Images\\60642a937e0c415a833dead2315d4604.jpg",
+      "PackagePath": "staticwebassets\\Images\\60642a937e0c415a833dead2315d4604.jpg"
+    },
+    {
+      "Id": "F:\\ASP.NET\\MVC App\\CMS\\CMS\\CMS.Web\\wwwroot\\Images\\6312c4b5aac74c9291c25a13ede04ae4.jpg",
+      "PackagePath": "staticwebassets\\Images\\6312c4b5aac74c9291c25a13ede04ae4.jpg"
+    },
+    {
+      "Id": "F:\\ASP.NET\\MVC App\\CMS\\CMS\\CMS.Web\\wwwroot\\Images\\6ab7c1029af24278b07d510758229f9e.jpg",
+      "PackagePath": "staticwebassets\\Images\\6ab7c1029af24278b07d510758229f9e.jpg"
+    },
+    {
+      "Id": "F:\\ASP.NET\\MVC App\\CMS\\CMS\\CMS.Web\\wwwroot\\Images\\6d0ae00c45b34fe184a830c07897014e.jpg",
+      "PackagePath": "staticwebassets\\Images\\6d0ae00c45b34fe184a830c07897014e.jpg"
+    },
+    {
+      "Id": "F:\\ASP.NET\\MVC App\\CMS\\CMS\\CMS.Web\\wwwroot\\Images\\6d84d5ffe3d24319aa8e2723e2477918.jpg",
+      "PackagePath": "staticwebassets\\Images\\6d84d5ffe3d24319aa8e2723e2477918.jpg"
+    },
+    {
+      "Id": "F:\\ASP.NET\\MVC App\\CMS\\CMS\\CMS.Web\\wwwroot\\Images\\7019330b1bdc4893ae42c7e50421ce68.jpg",
+      "PackagePath": "staticwebassets\\Images\\7019330b1bdc4893ae42c7e50421ce68.jpg"
+    },
+    {
+      "Id": "F:\\ASP.NET\\MVC App\\CMS\\CMS\\CMS.Web\\wwwroot\\Images\\719dfc4603624d2bb6839a62f8989452.jpg",
+      "PackagePath": "staticwebassets\\Images\\719dfc4603624d2bb6839a62f8989452.jpg"
+    },
+    {
+      "Id": "F:\\ASP.NET\\MVC App\\CMS\\CMS\\CMS.Web\\wwwroot\\Images\\7dce444c41e8407686c520c9eb6bc584.jpg",
+      "PackagePath": "staticwebassets\\Images\\7dce444c41e8407686c520c9eb6bc584.jpg"
+    },
+    {
+      "Id": "F:\\ASP.NET\\MVC App\\CMS\\CMS\\CMS.Web\\wwwroot\\Images\\8586287f4dc14d98adfa448f6da6b6cd.jpg",
+      "PackagePath": "staticwebassets\\Images\\8586287f4dc14d98adfa448f6da6b6cd.jpg"
+    },
+    {
+      "Id": "F:\\ASP.NET\\MVC App\\CMS\\CMS\\CMS.Web\\wwwroot\\Images\\8c847a020a604f35bffc422afef8f225.jpg",
+      "PackagePath": "staticwebassets\\Images\\8c847a020a604f35bffc422afef8f225.jpg"
+    },
+    {
+      "Id": "F:\\ASP.NET\\MVC App\\CMS\\CMS\\CMS.Web\\wwwroot\\Images\\8ca52e13a51e41bcb01bcec3fb6ed325.jpg",
+      "PackagePath": "staticwebassets\\Images\\8ca52e13a51e41bcb01bcec3fb6ed325.jpg"
+    },
+    {
+      "Id": "F:\\ASP.NET\\MVC App\\CMS\\CMS\\CMS.Web\\wwwroot\\Images\\8e5c93915b1b4ac9872311e2c32c1770.jpg",
+      "PackagePath": "staticwebassets\\Images\\8e5c93915b1b4ac9872311e2c32c1770.jpg"
+    },
+    {
+      "Id": "F:\\ASP.NET\\MVC App\\CMS\\CMS\\CMS.Web\\wwwroot\\Images\\96eef4f5aab84af4800baed74e0644bf.jpg",
+      "PackagePath": "staticwebassets\\Images\\96eef4f5aab84af4800baed74e0644bf.jpg"
+    },
+    {
+      "Id": "F:\\ASP.NET\\MVC App\\CMS\\CMS\\CMS.Web\\wwwroot\\Images\\9b605349949341e982ccd56fccb95ea2.jpg",
+      "PackagePath": "staticwebassets\\Images\\9b605349949341e982ccd56fccb95ea2.jpg"
+    },
+    {
+      "Id": "F:\\ASP.NET\\MVC App\\CMS\\CMS\\CMS.Web\\wwwroot\\Images\\a38096f1960f44869b22107296aa60c9.jpg",
+      "PackagePath": "staticwebassets\\Images\\a38096f1960f44869b22107296aa60c9.jpg"
+    },
+    {
+      "Id": "F:\\ASP.NET\\MVC App\\CMS\\CMS\\CMS.Web\\wwwroot\\Images\\a622a997423a43b497b23ec78c866b45.jpg",
+      "PackagePath": "staticwebassets\\Images\\a622a997423a43b497b23ec78c866b45.jpg"
+    },
+    {
+      "Id": "F:\\ASP.NET\\MVC App\\CMS\\CMS\\CMS.Web\\wwwroot\\Images\\a80fb052e551447093d97de0d49322fb.jpg",
+      "PackagePath": "staticwebassets\\Images\\a80fb052e551447093d97de0d49322fb.jpg"
+    },
+    {
+      "Id": "F:\\ASP.NET\\MVC App\\CMS\\CMS\\CMS.Web\\wwwroot\\Images\\a984a34c558746feade33dcf0d960147.jpg",
+      "PackagePath": "staticwebassets\\Images\\a984a34c558746feade33dcf0d960147.jpg"
+    },
+    {
+      "Id": "F:\\ASP.NET\\MVC App\\CMS\\CMS\\CMS.Web\\wwwroot\\Images\\a9cf3c3e2ab346648a539fa2ad3a1dae.jpg",
+      "PackagePath": "staticwebassets\\Images\\a9cf3c3e2ab346648a539fa2ad3a1dae.jpg"
+    },
+    {
+      "Id": "F:\\ASP.NET\\MVC App\\CMS\\CMS\\CMS.Web\\wwwroot\\Images\\a9e68d46ee28463e9eeeb13e0870c2d0.jpg",
+      "PackagePath": "staticwebassets\\Images\\a9e68d46ee28463e9eeeb13e0870c2d0.jpg"
+    },
+    {
+      "Id": "F:\\ASP.NET\\MVC App\\CMS\\CMS\\CMS.Web\\wwwroot\\Images\\b240e65214284e5db520ebeb65360e4f.jpg",
+      "PackagePath": "staticwebassets\\Images\\b240e65214284e5db520ebeb65360e4f.jpg"
+    },
+    {
+      "Id": "F:\\ASP.NET\\MVC App\\CMS\\CMS\\CMS.Web\\wwwroot\\Images\\b2e525b0acba4584a3829d23b3e09a6b.jpg",
+      "PackagePath": "staticwebassets\\Images\\b2e525b0acba4584a3829d23b3e09a6b.jpg"
+    },
+    {
+      "Id": "F:\\ASP.NET\\MVC App\\CMS\\CMS\\CMS.Web\\wwwroot\\Images\\b356ce28b618438d88ce757901170df7.jpg",
+      "PackagePath": "staticwebassets\\Images\\b356ce28b618438d88ce757901170df7.jpg"
+    },
+    {
+      "Id": "F:\\ASP.NET\\MVC App\\CMS\\CMS\\CMS.Web\\wwwroot\\Images\\b3f1dae156e946089959ce36667f1d17.jpg",
+      "PackagePath": "staticwebassets\\Images\\b3f1dae156e946089959ce36667f1d17.jpg"
+    },
+    {
       "Id": "F:\\ASP.NET\\MVC App\\CMS\\CMS\\CMS.Web\\wwwroot\\Images\\b450084d73744c6f88fd8debfdae736a.jpg",
       "PackagePath": "staticwebassets\\Images\\b450084d73744c6f88fd8debfdae736a.jpg"
+    },
+    {
+      "Id": "F:\\ASP.NET\\MVC App\\CMS\\CMS\\CMS.Web\\wwwroot\\Images\\b46849757be14f63a3186855ca7a8659.jpg",
+      "PackagePath": "staticwebassets\\Images\\b46849757be14f63a3186855ca7a8659.jpg"
+    },
+    {
+      "Id": "F:\\ASP.NET\\MVC App\\CMS\\CMS\\CMS.Web\\wwwroot\\Images\\be152de3a2c84d72aa947592cf121bdf.jpg",
+      "PackagePath": "staticwebassets\\Images\\be152de3a2c84d72aa947592cf121bdf.jpg"
+    },
+    {
+      "Id": "F:\\ASP.NET\\MVC App\\CMS\\CMS\\CMS.Web\\wwwroot\\Images\\bf35554dfdcb4475a99d500bc8dc4eb6.jpg",
+      "PackagePath": "staticwebassets\\Images\\bf35554dfdcb4475a99d500bc8dc4eb6.jpg"
+    },
+    {
+      "Id": "F:\\ASP.NET\\MVC App\\CMS\\CMS\\CMS.Web\\wwwroot\\Images\\c06a26730858456c802246992c39cea6.jpg",
+      "PackagePath": "staticwebassets\\Images\\c06a26730858456c802246992c39cea6.jpg"
+    },
+    {
+      "Id": "F:\\ASP.NET\\MVC App\\CMS\\CMS\\CMS.Web\\wwwroot\\Images\\c50c38ae7aa444dc84d5eaeb284b76e2.jpg",
+      "PackagePath": "staticwebassets\\Images\\c50c38ae7aa444dc84d5eaeb284b76e2.jpg"
+    },
+    {
+      "Id": "F:\\ASP.NET\\MVC App\\CMS\\CMS\\CMS.Web\\wwwroot\\Images\\c5815ce9d2864157b10d179c79088a23.jpg",
+      "PackagePath": "staticwebassets\\Images\\c5815ce9d2864157b10d179c79088a23.jpg"
+    },
+    {
+      "Id": "F:\\ASP.NET\\MVC App\\CMS\\CMS\\CMS.Web\\wwwroot\\Images\\cb98a847bc874568b01245207ad52fef.jpg",
+      "PackagePath": "staticwebassets\\Images\\cb98a847bc874568b01245207ad52fef.jpg"
     },
     {
       "Id": "F:\\ASP.NET\\MVC App\\CMS\\CMS\\CMS.Web\\wwwroot\\Images\\cd33c88491f34c96814f297d652dc33b.jpg",
       "PackagePath": "staticwebassets\\Images\\cd33c88491f34c96814f297d652dc33b.jpg"
     },
     {
+      "Id": "F:\\ASP.NET\\MVC App\\CMS\\CMS\\CMS.Web\\wwwroot\\Images\\cdc80a8ffbe24de6a183c1c139616c0f.jpg",
+      "PackagePath": "staticwebassets\\Images\\cdc80a8ffbe24de6a183c1c139616c0f.jpg"
+    },
+    {
+      "Id": "F:\\ASP.NET\\MVC App\\CMS\\CMS\\CMS.Web\\wwwroot\\Images\\cde55d10108546029a042a1437128ab5.jpg",
+      "PackagePath": "staticwebassets\\Images\\cde55d10108546029a042a1437128ab5.jpg"
+    },
+    {
       "Id": "F:\\ASP.NET\\MVC App\\CMS\\CMS\\CMS.Web\\wwwroot\\Images\\dacde159a1984f5daac0175f055dde0e.jpg",
       "PackagePath": "staticwebassets\\Images\\dacde159a1984f5daac0175f055dde0e.jpg"
+    },
+    {
+      "Id": "F:\\ASP.NET\\MVC App\\CMS\\CMS\\CMS.Web\\wwwroot\\Images\\e67b3aa596a44e2aa050b3e20d5cc110.jpg",
+      "PackagePath": "staticwebassets\\Images\\e67b3aa596a44e2aa050b3e20d5cc110.jpg"
+    },
+    {
+      "Id": "F:\\ASP.NET\\MVC App\\CMS\\CMS\\CMS.Web\\wwwroot\\Images\\f00c2cf7962748ee934dcfb5a4c0534b.jpg",
+      "PackagePath": "staticwebassets\\Images\\f00c2cf7962748ee934dcfb5a4c0534b.jpg"
+    },
+    {
+      "Id": "F:\\ASP.NET\\MVC App\\CMS\\CMS\\CMS.Web\\wwwroot\\Images\\f2cb5b2eaa794610bb99a1186ac0b50d.jpg",
+      "PackagePath": "staticwebassets\\Images\\f2cb5b2eaa794610bb99a1186ac0b50d.jpg"
+    },
+    {
+      "Id": "F:\\ASP.NET\\MVC App\\CMS\\CMS\\CMS.Web\\wwwroot\\Images\\f55e260c17844c41b2daae96cc877e85.jpg",
+      "PackagePath": "staticwebassets\\Images\\f55e260c17844c41b2daae96cc877e85.jpg"
+    },
+    {
+      "Id": "F:\\ASP.NET\\MVC App\\CMS\\CMS\\CMS.Web\\wwwroot\\Images\\fb13994ccce74ca082344819179da41f.jpg",
+      "PackagePath": "staticwebassets\\Images\\fb13994ccce74ca082344819179da41f.jpg"
+    },
+    {
+      "Id": "F:\\ASP.NET\\MVC App\\CMS\\CMS\\CMS.Web\\wwwroot\\Images\\ff0000e761784dfb9f6191409e460635.jpg",
+      "PackagePath": "staticwebassets\\Images\\ff0000e761784dfb9f6191409e460635.jpg"
     },
     {
       "Id": "F:\\ASP.NET\\MVC App\\CMS\\CMS\\CMS.Web\\wwwroot\\ThemImages\\cms-logo.png",

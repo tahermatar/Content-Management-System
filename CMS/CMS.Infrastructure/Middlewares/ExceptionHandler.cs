@@ -32,7 +32,9 @@ namespace CMS.Infrastructure.Middlewares
                 case EntityNotFoundException _:
                 case OperationFailedException _:
                 case EmailHaveBeenUsedException _:
-                    //case InvalidDateException _:
+                case DuplicateNameOfCategoryException _:
+                case InvalidDateException _:
+                case DuplicateOwnerException _:
                     response.msg = $"e:{exception.Message}";
                     response.close = 0;
                     response.status = 0;

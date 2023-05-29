@@ -4,7 +4,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace CMS.Data.Models
 {
-    public class User : IdentityUser
+    public class User : IdentityUser 
     {
         [Required]
         public string? FullName { get; set; }
@@ -12,7 +12,7 @@ namespace CMS.Data.Models
         public string? ImageUrl { get; set; }
         public UserType UserType { get; set; }
         public bool IsDelete { get; set; }
-        public DateTime CreatedAt { get; set; }
+        public DateTime CreatedAt { get; set; } = DateTime.Now;
         public string? CreatedBy { get; set; }
         public DateTime? UpdatedAt { get; set; }
         public string? UpdatedBy { get; set; }

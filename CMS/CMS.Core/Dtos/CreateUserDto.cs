@@ -6,14 +6,14 @@ namespace CMS.Core.Dtos
 {
     public class CreateUserDto
     {
-        [Required]
+        [Required(ErrorMessage = "هذا الحقل مطلوب")]
         [Display(Name = "اسم المستخدم")]
         public string? FullName { get; set; }
-        [Required]
+        [Required(ErrorMessage = "هذا الحقل مطلوب")]
         [EmailAddress]
         [Display(Name = "البريد الإلكتروني")]
         public string? Email { get; set; }
-        [Required]
+        [Required(ErrorMessage = "هذا الحقل مطلوب")]
         [Phone]
         [Display(Name = "رقم الجوال")]
         public string? PhoneNumber { get; set; }

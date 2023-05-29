@@ -2,7 +2,6 @@
 using CMS.Core.Dtos;
 using CMS.Core.ViewModels;
 using CMS.Data.Models;
-using Org.BouncyCastle.Math.EC.Rfc7748;
 
 namespace CMS.Infrastructure.AutoMapper
 {
@@ -17,6 +16,20 @@ namespace CMS.Infrastructure.AutoMapper
             ////لانه عملنا دي تي او للكريت بدون الاي دي فبطل الها لازمة
             //    ./*ForMember(x => x.Id, x => x.Ignore());*/
             CreateMap<User, UpdateUserDto>().ForMember(x => x.Image, x => x.Ignore());
+
+            CreateMap<Category, CategoryViewModel>();
+            CreateMap<CreateCategoryDto, Category>();
+            CreateMap<UpdateCategoryDto, Category>();
+            CreateMap<Category, UpdateCategoryDto>();
+
+            CreateMap<Advertisement, AdvertisementViewModel>().ForMember(x => x.StartDate,
+                                                          x => x.MapFrom(x => x.StartDate.ToString("yyyy:MM:dd")))
+                                                              .ForMember(x => x.EndDate,
+                                                          x => x.MapFrom(x => x.EndDate.ToString("yyyy:MM:dd")));
+            CreateMap<CreateAdvertisementDto, Advertisement>().ForMember(x => x.ImageUrl, x => x.Ignore())
+                                                              .ForMember(x => x.Owner, x => x.Ignore());
+            CreateMap<UpdateAdvertisementDto, Advertisement>().ForMember(x => x.ImageUrl, x => x.Ignore());
+            CreateMap<Advertisement, UpdateAdvertisementDto>().ForMember(x => x.Image, x => x.Ignore());
         }
     }
 }

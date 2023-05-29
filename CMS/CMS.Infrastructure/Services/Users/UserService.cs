@@ -79,7 +79,6 @@ namespace CMS.Infrastructure.Services.Users
 
             var user = _mapper.Map<User>(dto);
             user.UserName = dto.Email;
-            user.CreatedAt = DateTime.Now;
 
             if (dto.Image != null)
             {
@@ -107,7 +106,6 @@ namespace CMS.Infrastructure.Services.Users
 
             return user.Id;
         }
-
         public async Task<string> Update(UpdateUserDto dto)
         {
             var emailOrPhoneIsExist = _db.Users.Any(x => !x.IsDelete && (x.Email == dto.Email || x.PhoneNumber == dto.PhoneNumber) && x.Id != dto.Id);

@@ -2,7 +2,7 @@
 
 namespace CMS.Data.Models
 {
-    public class Advertisement
+    public class Advertisement : BaseEntity
     {
         public int Id { get; set; }
         [Required]
