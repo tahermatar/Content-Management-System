@@ -15,3 +15,20 @@ F:\ASP.NET\MVC App\CMS\CMS\CMS.Infrastructure\bin\Debug\net7.0\CMS.Data.pdb
 F:\ASP.NET\MVC App\CMS\CMS\CMS.Infrastructure\obj\Debug\net7.0\CMS.Infrastructure.csproj.CopyComplete
 F:\ASP.NET\MVC App\CMS\CMS\CMS.Infrastructure\bin\Debug\net7.0\CMS.Core.dll
 F:\ASP.NET\MVC App\CMS\CMS\CMS.Infrastructure\bin\Debug\net7.0\CMS.Core.pdb
+F:\ASP.NET\Content-Management-System-development\CMS\CMS.Infrastructure\bin\Debug\net7.0\CMS.Infrastructure.deps.json
+F:\ASP.NET\Content-Management-System-development\CMS\CMS.Infrastructure\bin\Debug\net7.0\CMS.Infrastructure.dll
+F:\ASP.NET\Content-Management-System-development\CMS\CMS.Infrastructure\bin\Debug\net7.0\CMS.Infrastructure.pdb
+F:\ASP.NET\Content-Management-System-development\CMS\CMS.Infrastructure\bin\Debug\net7.0\CMS.Core.dll
+F:\ASP.NET\Content-Management-System-development\CMS\CMS.Infrastructure\bin\Debug\net7.0\CMS.Data.dll
+F:\ASP.NET\Content-Management-System-development\CMS\CMS.Infrastructure\bin\Debug\net7.0\CMS.Data.pdb
+F:\ASP.NET\Content-Management-System-development\CMS\CMS.Infrastructure\bin\Debug\net7.0\CMS.Core.pdb
+F:\ASP.NET\Content-Management-System-development\CMS\CMS.Infrastructure\obj\Debug\net7.0\CMS.Infrastructure.csproj.AssemblyReference.cache
+F:\ASP.NET\Content-Management-System-development\CMS\CMS.Infrastructure\obj\Debug\net7.0\CMS.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+F:\ASP.NET\Content-Management-System-development\CMS\CMS.Infrastructure\obj\Debug\net7.0\CMS.Infrastructure.AssemblyInfoInputs.cache
+F:\ASP.NET\Content-Management-System-development\CMS\CMS.Infrastructure\obj\Debug\net7.0\CMS.Infrastructure.AssemblyInfo.cs
+F:\ASP.NET\Content-Management-System-development\CMS\CMS.Infrastructure\obj\Debug\net7.0\CMS.Infrastructure.csproj.CoreCompileInputs.cache
+F:\ASP.NET\Content-Management-System-development\CMS\CMS.Infrastructure\obj\Debug\net7.0\CMS.Infrastructure.csproj.CopyComplete
+F:\ASP.NET\Content-Management-System-development\CMS\CMS.Infrastructure\obj\Debug\net7.0\CMS.Infrastructure.dll
+F:\ASP.NET\Content-Management-System-development\CMS\CMS.Infrastructure\obj\Debug\net7.0\refint\CMS.Infrastructure.dll
+F:\ASP.NET\Content-Management-System-development\CMS\CMS.Infrastructure\obj\Debug\net7.0\CMS.Infrastructure.pdb
+F:\ASP.NET\Content-Management-System-development\CMS\CMS.Infrastructure\obj\Debug\net7.0\ref\CMS.Infrastructure.dll

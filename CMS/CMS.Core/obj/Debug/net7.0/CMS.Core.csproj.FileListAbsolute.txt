@@ -10,3 +10,15 @@ F:\ASP.NET\MVC App\CMS\CMS\CMS.Core\obj\Debug\net7.0\CMS.Core.dll
 F:\ASP.NET\MVC App\CMS\CMS\CMS.Core\obj\Debug\net7.0\refint\CMS.Core.dll
 F:\ASP.NET\MVC App\CMS\CMS\CMS.Core\obj\Debug\net7.0\CMS.Core.pdb
 F:\ASP.NET\MVC App\CMS\CMS\CMS.Core\obj\Debug\net7.0\ref\CMS.Core.dll
+F:\ASP.NET\Content-Management-System-development\CMS\CMS.Core\bin\Debug\net7.0\CMS.Core.deps.json
+F:\ASP.NET\Content-Management-System-development\CMS\CMS.Core\bin\Debug\net7.0\CMS.Core.dll
+F:\ASP.NET\Content-Management-System-development\CMS\CMS.Core\bin\Debug\net7.0\CMS.Core.pdb
+F:\ASP.NET\Content-Management-System-development\CMS\CMS.Core\obj\Debug\net7.0\CMS.Core.csproj.AssemblyReference.cache
+F:\ASP.NET\Content-Management-System-development\CMS\CMS.Core\obj\Debug\net7.0\CMS.Core.GeneratedMSBuildEditorConfig.editorconfig
+F:\ASP.NET\Content-Management-System-development\CMS\CMS.Core\obj\Debug\net7.0\CMS.Core.AssemblyInfoInputs.cache
+F:\ASP.NET\Content-Management-System-development\CMS\CMS.Core\obj\Debug\net7.0\CMS.Core.AssemblyInfo.cs
+F:\ASP.NET\Content-Management-System-development\CMS\CMS.Core\obj\Debug\net7.0\CMS.Core.csproj.CoreCompileInputs.cache
+F:\ASP.NET\Content-Management-System-development\CMS\CMS.Core\obj\Debug\net7.0\CMS.Core.dll
+F:\ASP.NET\Content-Management-System-development\CMS\CMS.Core\obj\Debug\net7.0\refint\CMS.Core.dll
+F:\ASP.NET\Content-Management-System-development\CMS\CMS.Core\obj\Debug\net7.0\CMS.Core.pdb
+F:\ASP.NET\Content-Management-System-development\CMS\CMS.Core\obj\Debug\net7.0\ref\CMS.Core.dll

@@ -15,3 +15,20 @@ F:\ASP.NET\MVC App\CMS\CMS\CMS.Data\obj\Debug\net7.0\ref\CMS.Data.dll
 F:\ASP.NET\MVC App\CMS\CMS\CMS.Data\bin\Debug\net7.0\CMS.Core.dll
 F:\ASP.NET\MVC App\CMS\CMS\CMS.Data\bin\Debug\net7.0\CMS.Core.pdb
 F:\ASP.NET\MVC App\CMS\CMS\CMS.Data\obj\Debug\net7.0\CMS.Data.csproj.CopyComplete
+F:\ASP.NET\Content-Management-System-development\CMS\CMS.Data\bin\Debug\net7.0\CMS.Data.deps.json
+F:\ASP.NET\Content-Management-System-development\CMS\CMS.Data\bin\Debug\net7.0\CMS.Data.runtimeconfig.json
+F:\ASP.NET\Content-Management-System-development\CMS\CMS.Data\bin\Debug\net7.0\CMS.Data.dll
+F:\ASP.NET\Content-Management-System-development\CMS\CMS.Data\bin\Debug\net7.0\CMS.Data.pdb
+F:\ASP.NET\Content-Management-System-development\CMS\CMS.Data\bin\Debug\net7.0\CMS.Core.dll
+F:\ASP.NET\Content-Management-System-development\CMS\CMS.Data\bin\Debug\net7.0\CMS.Core.pdb
+F:\ASP.NET\Content-Management-System-development\CMS\CMS.Data\obj\Debug\net7.0\CMS.Data.csproj.AssemblyReference.cache
+F:\ASP.NET\Content-Management-System-development\CMS\CMS.Data\obj\Debug\net7.0\CMS.Data.GeneratedMSBuildEditorConfig.editorconfig
+F:\ASP.NET\Content-Management-System-development\CMS\CMS.Data\obj\Debug\net7.0\CMS.Data.AssemblyInfoInputs.cache
+F:\ASP.NET\Content-Management-System-development\CMS\CMS.Data\obj\Debug\net7.0\CMS.Data.AssemblyInfo.cs
+F:\ASP.NET\Content-Management-System-development\CMS\CMS.Data\obj\Debug\net7.0\CMS.Data.csproj.CoreCompileInputs.cache
+F:\ASP.NET\Content-Management-System-development\CMS\CMS.Data\obj\Debug\net7.0\CMS.Data.csproj.CopyComplete
+F:\ASP.NET\Content-Management-System-development\CMS\CMS.Data\obj\Debug\net7.0\CMS.Data.dll
+F:\ASP.NET\Content-Management-System-development\CMS\CMS.Data\obj\Debug\net7.0\refint\CMS.Data.dll
+F:\ASP.NET\Content-Management-System-development\CMS\CMS.Data\obj\Debug\net7.0\CMS.Data.pdb
+F:\ASP.NET\Content-Management-System-development\CMS\CMS.Data\obj\Debug\net7.0\CMS.Data.genruntimeconfig.cache
+F:\ASP.NET\Content-Management-System-development\CMS\CMS.Data\obj\Debug\net7.0\ref\CMS.Data.dll
