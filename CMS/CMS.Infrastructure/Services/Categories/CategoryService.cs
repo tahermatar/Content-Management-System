@@ -24,6 +24,12 @@ namespace CMS.Infrastructure.Services.Categories
             _mapper = mapper;
         }
 
+        public async Task<List<CategoryViewModel>> GetCategoryList()
+        {
+            var categories = await _db.Categories.Where(x => !x.IsDelete).ToListAsync();
+            return _mapper.Map<List<CategoryViewModel>>(categories);
+        }
+
         public async Task<ResponseDto> GetAll(Pagination pagination, Core.Dtos.Query query)
         {
             // Without Using Data Tabel

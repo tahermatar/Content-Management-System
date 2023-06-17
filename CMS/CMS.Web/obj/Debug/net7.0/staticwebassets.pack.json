@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\Datatable\\Category.js"
     },
     {
+      "Id": "F:\\ASP.NET\\MVC App\\CMS\\CMS\\CMS.Web\\wwwroot\\Datatable\\Track.js",
+      "PackagePath": "staticwebassets\\Datatable\\Track.js"
+    },
+    {
       "Id": "F:\\ASP.NET\\MVC App\\CMS\\CMS\\CMS.Web\\wwwroot\\Datatable\\User.js",
       "PackagePath": "staticwebassets\\Datatable\\User.js"
     },
@@ -165,6 +169,10 @@
       "PackagePath": "staticwebassets\\Images\\8586287f4dc14d98adfa448f6da6b6cd.jpg"
     },
     {
+      "Id": "F:\\ASP.NET\\MVC App\\CMS\\CMS\\CMS.Web\\wwwroot\\Images\\8b2b9f2e32144dc4a9f4272fb7d59d7d.jpg",
+      "PackagePath": "staticwebassets\\Images\\8b2b9f2e32144dc4a9f4272fb7d59d7d.jpg"
+    },
+    {
       "Id": "F:\\ASP.NET\\MVC App\\CMS\\CMS\\CMS.Web\\wwwroot\\Images\\8c847a020a604f35bffc422afef8f225.jpg",
       "PackagePath": "staticwebassets\\Images\\8c847a020a604f35bffc422afef8f225.jpg"
     },
@@ -299,6 +307,22 @@
     {
       "Id": "F:\\ASP.NET\\MVC App\\CMS\\CMS\\CMS.Web\\wwwroot\\ThemImages\\cms-logo.png",
       "PackagePath": "staticwebassets\\ThemImages\\cms-logo.png"
+    },
+    {
+      "Id": "F:\\ASP.NET\\MVC App\\CMS\\CMS\\CMS.Web\\wwwroot\\Tracks\\6f3a2a53a1324a3c943086e19002717e.jpg",
+      "PackagePath": "staticwebassets\\Tracks\\6f3a2a53a1324a3c943086e19002717e.jpg"
+    },
+    {
+      "Id": "F:\\ASP.NET\\MVC App\\CMS\\CMS\\CMS.Web\\wwwroot\\Tracks\\86b0184cdcf04ba59cb56658ca10f1ef.jpg",
+      "PackagePath": "staticwebassets\\Tracks\\86b0184cdcf04ba59cb56658ca10f1ef.jpg"
+    },
+    {
+      "Id": "F:\\ASP.NET\\MVC App\\CMS\\CMS\\CMS.Web\\wwwroot\\Tracks\\b9a1d7ac1a7643f0a4ffa95c49eac980.mp3",
+      "PackagePath": "staticwebassets\\Tracks\\b9a1d7ac1a7643f0a4ffa95c49eac980.mp3"
+    },
+    {
+      "Id": "F:\\ASP.NET\\MVC App\\CMS\\CMS\\CMS.Web\\wwwroot\\Tracks\\f8766074faa44534a84172e5ccd026e7.jpg",
+      "PackagePath": "staticwebassets\\Tracks\\f8766074faa44534a84172e5ccd026e7.jpg"
     },
     {
       "Id": "F:\\ASP.NET\\MVC App\\CMS\\CMS\\CMS.Web\\wwwroot\\assets\\chart\\animated.js",

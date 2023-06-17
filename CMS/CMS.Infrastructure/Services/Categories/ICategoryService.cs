@@ -10,6 +10,7 @@ namespace CMS.Infrastructure.Services.Categories
 {
     public interface ICategoryService
     {
+        Task<List<CategoryViewModel>> GetCategoryList();
         Task<ResponseDto> GetAll(Pagination pagination, Query query);
 
         Task<int> Create(CreateCategoryDto dto);
